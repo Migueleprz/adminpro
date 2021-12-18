@@ -5,15 +5,7 @@ import {PagesModule} from "./pages/pages.module";
 import {AuthModule} from "./auth/auth.module";
 
 import { AppComponent } from './app.component';
-
 import { Page404Component } from './page404/page404.component';
-
-
-
-
-
-
-
 
 @NgModule({
   declarations: [
